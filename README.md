@@ -6,7 +6,7 @@
 <div>
     <a href="https://github.com/Neanimever">
     <img width="50%" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Neanimever&show_icons=true&count_private=true&bg_color=000&title_color=48e91c&text_color=fff&icon_color=gold&hide_border=true" />
-    <img width="42%" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neanimever&layout=compact&bg_color=000&text_color=fff&title_color=48e91c&hide_border=true" />
+    <img width="42%" align="center" src="https://github-readme-stats-i4ys-li8bcnd9l-neanimever.vercel.app/api/top-langs/?username=Neanimever&layout=compact&bg_color=000&text_color=fff&title_color=48e91c&hide_border=true&count-private=true" />
 </div>
 
 #
