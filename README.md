@@ -1,6 +1,6 @@
 # Hi There! I'm Alberth 👋
 
-#### I probably won't be using GitHub as much as I would like, because I'm focused on my studies on JavaScript.
+#### I probably won't be using GitHub as much as I would like, because I'm focused on my studies on React.
 <br/>
 
 <div>
