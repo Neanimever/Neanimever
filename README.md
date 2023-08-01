@@ -1,6 +1,5 @@
-# Hi There! I'm Alberth 👋
-
-#### I probably won't be using GitHub as much as I would like, because I'm focused on my studies on React.
+# Olá! Me chamo Alberth 👋
+Eu não devo utilizar tanto o Github quanto gostaria, pois estou focando nos meus estudos em React e no trabalho.
 <br/>
 
 <div>
@@ -11,14 +10,29 @@
 
 <br />
 
-<div style="display: inline_block">
-    <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="TypeScript" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+## Tecnologias
+<div>
+    <ul>
+        <li>    
+            <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        </li>
+        <li>
+            <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        </li>
+        <li>
+            <img align="center" alt="JavaScript" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        </li>
+        <li>
+            <img align="center" alt="React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        </li>
+        <li>    
+            <img align="center" alt="TypeScript" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        </li>
+        <li>
+            <img align="center" alt="Node.js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+        </li>
+    </ul>
 </div>
 
-<hr />
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neanimever&bg_color=000000&color=4be91c&line=4be91c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## Gráfico de Contribuição
+[![Neanimever's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neanimever&bg_color=000000&color=4be91c&line=4be91c&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
