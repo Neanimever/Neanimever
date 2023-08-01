@@ -31,6 +31,9 @@ Eu não devo utilizar tanto o Github quanto gostaria, pois estou focando nos meu
         <li>
             <img align="center" alt="Node.js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
         </li>
+        <li>
+            <img align="center" alt="Node.js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+        </li>
     </ul>
 </div>
 
