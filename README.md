@@ -1,5 +1,5 @@
 # Olá! Me chamo Alberth 👋
-Eu não devo utilizar tanto o Github quanto gostaria, pois estou focando nos meus estudos em React e no trabalho.
+Eu não devo utilizar tanto o Github quanto gostaria, pois estou focando nos meus estudos e no trabalho.
 <br/>
 
 <div>
