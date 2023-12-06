@@ -23,16 +23,10 @@ Eu não devo utilizar tanto o Github quanto gostaria, pois estou focando nos meu
             <img align="center" alt="JavaScript" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         </li>
         <li>
-            <img align="center" alt="React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-        </li>
-        <li>    
-            <img align="center" alt="TypeScript" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+            <img align="center" alt="C" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
         </li>
         <li>
-            <img align="center" alt="Node.js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-        </li>
-        <li>
-            <img align="center" alt="Node.js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+            <img align="center" alt="Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
         </li>
     </ul>
 </div>
